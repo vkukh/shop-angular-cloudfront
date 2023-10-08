@@ -35,3 +35,5 @@ Follow the steps:
 CloudFront: https://d35vpraq17qss0.cloudfront.net/
 
 S3-website: http://my-third-rs-app.s3-website-us-east-1.amazonaws.com/
+
+## Integration with AWS API Gateway
