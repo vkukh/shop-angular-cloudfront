@@ -32,8 +32,8 @@ Follow the steps:
 
 ## The links to CloudFront URL and S3-website
 
-CloudFront: https://d35vpraq17qss0.cloudfront.net/
+CloudFront: https://d2ptes9ekzwmyn.cloudfront.net
 
-S3-website: http://my-third-rs-app.s3-website-us-east-1.amazonaws.com/
+S3-website: http://my-fourth-rs-app.s3-website-us-east-1.amazonaws.com
 
 ## Integration with AWS API Gateway

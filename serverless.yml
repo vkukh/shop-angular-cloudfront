@@ -11,7 +11,7 @@
 #
 # Happy Coding!
 
-service: my-third-rs-app
+service: my-fourth-rs-app
 # app and org for use with dashboard.serverless.com
 #app: your-app-name
 #org: your-org-name
@@ -30,7 +30,7 @@ plugins:
 
 custom:
   client:
-    bucketName: my-third-rs-app
+    bucketName: my-fourth-rs-app
     distributionFolder: dist/app
     region: eu-west-1
      
